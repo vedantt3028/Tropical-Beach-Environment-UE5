@@ -74,7 +74,17 @@ Used Blueprint scripting for environment logic and Unreal Engine workflows.
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+### Tropical Beach Overview
+
+![Beach Overview](Screenshots/tropical_beach_overview.png)
+
+### Landscape Design
+
+![Landscape](Screenshots/beach_landscape.png)
+
+### Water & Lighting System
+
+![Water Lighting](Screenshots/water_lighting_environment.png)
 
 ---
 
