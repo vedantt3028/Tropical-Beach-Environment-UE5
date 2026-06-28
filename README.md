@@ -90,7 +90,11 @@ Used Blueprint scripting for environment logic and Unreal Engine workflows.
 
 ## 🎥 Demo Video
 
-(Add video link here)
+## 🎥 Demo Video
+
+Unreal Engine 5 Tropical Beach Environment walkthrough:
+
+[Watch Project Demo](UE5_Beach.mp4)
 
 ---
 
